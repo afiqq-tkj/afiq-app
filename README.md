@@ -1,0 +1,2 @@
+# afiq-app
+aplikasi pertama
